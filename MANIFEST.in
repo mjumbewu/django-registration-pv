@@ -1,0 +1,3 @@
+recursive-include emailverification/templates *
+recursive-include registration/templates *
+recursive-include registration/static *
